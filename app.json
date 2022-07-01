@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Janasaikat13/file_filters_bot",
-    "repository": "https://github.com/Janasaikat13/file_filters_bot",
+    "repository": "https://github.com/saikat5699/file_filters_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
