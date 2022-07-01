@@ -1,4 +1,3 @@
-# file_filters_bot
 <p align="center">
   <img src="https://telegra.ph/file/9564d9a1611cd4003231d.jpg" alt="filmy duniya">
 </p>
@@ -50,7 +49,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Janasaikat13/file_filters_bot">
+<a href="https://heroku.com/deploy?template=https://github.com/saikat5699/file_filters_bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
